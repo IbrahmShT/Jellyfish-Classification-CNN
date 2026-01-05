@@ -1,0 +1,14 @@
+# Python gereksiz dosyaları
+__pycache__/
+*.pyc
+
+# Jupyter Notebook gereksiz dosyaları
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Veri Seti (GitHub'a yüklenmez!)
+deniz_anasi/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
